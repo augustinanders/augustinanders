@@ -10,4 +10,4 @@ My Hobbies:
 - fitness
 - photographer
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+there!;I'm+Augustin.)]
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+there!;I'm+Augustin.)
