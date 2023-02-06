@@ -11,3 +11,5 @@ My Hobbies:
 - photographer
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+there!;I'm+Augustin.)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=F73830&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
