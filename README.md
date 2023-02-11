@@ -1,15 +1,11 @@
 # Hey there, I´m Augustin!
 
-I am a photographer currently leraning web-development @neuefische.
+photographer currently leraning web-development at [neuefische🎣](https://github.com/neuefische).
 
-![thats_me](https://www.themarysue.com/wp-content/uploads/2022/11/Old-Man-Thumbs-Up-Meme.jpeg?fit=2318%2C1545)
 
-My Hobbies:
-- coding
-- cello
-- fitness
-- photographer
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+there!;I'm+Augustin.)
+**interests:**  🌱 web-dev&emsp;💪 fitness&emsp;📸 photo
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=F73830&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
+
+
+**contact:**&emsp;📪 [mail](mailto:mail@augustinanders.com)&emsp;📲 [LinkedIn](https://www.linkedin.com/in/augustin-anders-a861a41aa/)&emsp;🖼️ [instagram](https://www.instagram.com/augustuspictures/)&emsp;🖥️ [web](https://www.augustinanders.com/)
