@@ -1,6 +1,6 @@
 # Hey there, I´m Augustin!
 
-photographer currently leraning web-development at [neuefische🎣](https://github.com/neuefische).
+photographer currently learning web-development at [neuefische🎣](https://github.com/neuefische).
 
 
 
