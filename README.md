@@ -10,4 +10,4 @@ photographer currently learning web-development at [neuefische🎣](https://gith
 
 **contact:**&emsp;📪 [mail](mailto:mail@augustinanders.com)&emsp;📲 [LinkedIn](https://www.linkedin.com/in/augustin-anders-a861a41aa/)&emsp;🖼️ [instagram](https://www.instagram.com/augustuspictures/)&emsp;🖥️ [web](https://www.augustinanders.com/)
 
-[**memory-app | capstone**](https://github.com/augustinanders/2023_03_01_capstone-neuefische_memory)
+**capstone:** [memory-app](https://github.com/augustinanders/2023_03_01_capstone-neuefische_memory)
